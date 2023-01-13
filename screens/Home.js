@@ -44,7 +44,7 @@ export default function Home({navigation}) {
                     </View>
                     <Pressable
                         onPress={() => setModalFlag(false)}>
-                        <Text>Hide Modal</Text>
+                        <Text>Close</Text>
                     </Pressable>
                 </View>
                 
